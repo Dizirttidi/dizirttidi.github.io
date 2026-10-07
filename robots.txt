@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexWebmaster
+Allow: /
+
+Sitemap: https://dizirttidi.github.io/construction-site/sitemap.xml
